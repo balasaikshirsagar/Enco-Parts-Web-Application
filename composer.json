@@ -1,0 +1,15 @@
+{
+    "name": "kshirsagarbalasai/adminphp",
+    "autoload": {
+        "psr-4": {
+            "Kshirsagarbalasai\\Adminphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "balasaikshirsagar",
+            "email": "balasaikshirsagar@gmail.com"
+        }
+    ],
+    "require": {}
+}
